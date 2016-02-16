@@ -1,0 +1,3 @@
+[submodule "MainRepo"]
+	path = MainRepo
+	url = https://github.com/vlavellauruit/MainRepo
